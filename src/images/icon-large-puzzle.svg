@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-large-puzzle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012" stroke-linecap="square">
+        <g id="JUM---sluzbenik---lista-usluga---desktop" transform="translate(-943.000000, -687.000000)" stroke="#000000" stroke-width="2">
+            <g id="icon-large-puzzle" transform="translate(944.000000, 688.000000)">
+                <path d="M38,20 C37.295,20 36.628,20.144 36,20.367 L36,8 L23.633,8 C23.856,7.372 24,6.705 24,6 C24,2.686 21.314,0 18,0 C14.686,0 12,2.686 12,6 C12,6.705 12.144,7.372 12.367,8 L0,8 L0,20 C3.314,20 6,22.686 6,26 C6,29.314 3.314,32 0,32 L0,44 L12,44 C12,40.686 14.686,38 18,38 C21.314,38 24,40.686 24,44 L36,44 L36,31.633 C36.628,31.856 37.295,32 38,32 C41.314,32 44,29.314 44,26 C44,22.686 41.314,20 38,20 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
